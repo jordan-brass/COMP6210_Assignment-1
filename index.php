@@ -13,8 +13,8 @@
 <body>
 
     <ul id="dropdown1" class="dropdown-content">
-        <li><a href="kingscon.html">KingsCon</a></li>
-        <li><a href="dreamcon.html">DreamCon</a></li>
+        <li><a href="kingscon.php">KingsCon</a></li>
+        <li><a href="dreamcon.php">DreamCon</a></li>
     </ul>
 
     <nav>
@@ -22,9 +22,9 @@
             <a href="index.php" class="brand-logo">Logo</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="index.php">Home</a></li>
-                <li><a href="About.html">About</a></li>
+                <li><a href="About.php">About</a></li>
                 <li><a href="Blog.php">Blog</a></li>
-                <li><a href="Contact.html">Contact</a></li>
+                <li><a href="Contact.php">Contact</a></li>
                 <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Events<i class="material-icons right">arrow_drop_down</i></a></li>
                 <li><a href="register.php">Register / Log In</a></li>
             </ul>

@@ -48,3 +48,8 @@
 #placeholder-border {
     border: 2px solid black;
 }
+
+.member-portrait {
+    height: 100px;
+    width: 100px
+}
