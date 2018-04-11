@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
     <link rel="stylesheet" href="Css.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="blog.php">
     <title>Home</title>
 </head>
 <body>
@@ -25,7 +26,7 @@
                 <li><a href="Blog.php">Blog</a></li>
                 <li><a href="Contact.html">Contact</a></li>
                 <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Events<i class="material-icons right">arrow_drop_down</i></a></li>
-                <li><a href="register.html">Register / Log In</a></li>
+                <li><a href="register.php">Register / Log In</a></li>
             </ul>
         </div>
     </nav>
@@ -44,13 +45,14 @@
         Mauris accumsan malesuada diam eu mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi vel nulla pellentesque, mollis enim in, ultricies lectus. Curabitur tincidunt enim in odio pretium, ac posuere massa hendrerit. Duis non posuere nulla, faucibus fermentum nulla. Cras suscipit finibus commodo. Nullam vitae lobortis erat. Maecenas ut nisl diam. Nunc imperdiet elementum lacus sed lacinia. Curabitur eleifend, urna in sagittis pharetra, nulla nisi ultricies ligula, at ullamcorper ante leo at lacus. Sed pellentesque posuere vulputate. Curabitur non risus pretium, ornare massa ut, vulputate sem. In vestibulum ipsum ac mauris facilisis, vitae varius lectus consectetur. Pellentesque porttitor vestibulum dui, sed sagittis est rhoncus ac.
         </div>
         <div id = "r2" class="col s3">
-            2
+            <div src = "./blog.php/#Latest"></div>
         </div>
         <div id = "r3" class="col s3">
-            3 Hello
+            <a class="twitter-timeline" href="https://twitter.com/NZRPG01?ref_src=twsrc%5Etfw">Tweets by NZRPG</a> 
         </div>
     </div>
 
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
     <script src="js.js"></script>

@@ -26,7 +26,7 @@
                 <li class = active><a href="Blog.php">Blog</a></li>
                 <li><a href="Contact.html">Contact</a></li>
                 <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Events<i class="material-icons right">arrow_drop_down</i></a></li>
-                <li><a href="register.html">Register / Log In</a></li>
+                <li><a href="register.php">Register / Log In</a></li>
             </ul>
         </div>
     </nav>
@@ -49,7 +49,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
-                    <span class="card-title grey-text text-darken-4">Author's Name<i class="material-icons right">close</i></span>
+                <span  class="card-title grey-text text-darken-4 "><img class ="author-image circle" src="./images/portraitstock.jpg">Author's Name<i class="material-icons right">close</i></span>
                     <p>Here is some Information about the Author</p>
                 </div>
             </div>
@@ -60,7 +60,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
-                    <span class="card-title grey-text text-darken-4">Author's Name<i class="material-icons right">close</i></span>
+                <span  class="card-title grey-text text-darken-4 "><img class ="author-image circle" src="./images/portraitstock.jpg">Author's Name<i class="material-icons right">close</i></span>
                     <p>Here is some Information about the Author</p>
                 </div>
             </div>

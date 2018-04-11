@@ -19,10 +19,6 @@
     background-color: Lime;
 }
 
-#r3 {
-    background-color: pink;
-}
-
 .nav-wrapper {
     background-color: darkblue;
 }
@@ -47,4 +43,8 @@
 .author-image {
     height: 100px;
     width: 100px;
+}
+
+#placeholder-border {
+    border: 2px solid black;
 }
