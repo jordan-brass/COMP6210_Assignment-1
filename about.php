@@ -61,7 +61,7 @@
             </div>
         </div>
 
-        <div class = "col s4">
+        <!-- <div class = "col s4">
             <div class = "card">
                 <div class = "row">
                     <div class = "col s3">
@@ -78,7 +78,48 @@
                         
                 </div>
             </div>
+        </div> -->
+        <div class = "col s4">
+            <div>
+                <h4>Who is in NZRPG?</h4>
+            </div>
+            <ul class="collapsible">
+                <li>
+                    <div class="collapsible-header">
+                        <img class="member-portrait circle" src="./images/portraitstock.jpg"><h4>Member Name 1</h4>
+                    </div>
+                    <div class="collapsible-body">
+                        <span>
+                            Member Bio
+                            In id ipsum et nulla suscipit venenatis non in nisl. Aenean consequat malesuada nunc nec mollis. Donec rutrum lacinia facilisis. Vestibulum nec erat lobortis, aliquam dui sed, porta neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in sapien vulputate arcu tempor sollicitudin. Integer iaculis, ipsum nec rhoncus semper, felis sapien pharetra magna, vel posuere augue nunc rhoncus leo. 
+                        </span>
+                    </div>
+                </li>
+                <li>
+                    <div class="collapsible-header">
+                        <img class="member-portrait circle" src="./images/portraitstock.jpg"><h4>Member Name 2</h4>
+                    </div>
+                    <div class="collapsible-body">
+                        <span>
+                            Member Bio
+                            In id ipsum et nulla suscipit venenatis non in nisl. Aenean consequat malesuada nunc nec mollis. Donec rutrum lacinia facilisis. Vestibulum nec erat lobortis, aliquam dui sed, porta neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in sapien vulputate arcu tempor sollicitudin. Integer iaculis, ipsum nec rhoncus semper, felis sapien pharetra magna, vel posuere augue nunc rhoncus leo. 
+                        </span>
+                    </div>
+                </li>
+                <li>
+                    <div class="collapsible-header">
+                        <img class="member-portrait circle" src="./images/portraitstock.jpg"><h4>Member Name 3</h4>
+                    </div>
+                    <div class="collapsible-body">
+                        <span>
+                            Member Bio
+                            In id ipsum et nulla suscipit venenatis non in nisl. Aenean consequat malesuada nunc nec mollis. Donec rutrum lacinia facilisis. Vestibulum nec erat lobortis, aliquam dui sed, porta neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in sapien vulputate arcu tempor sollicitudin. Integer iaculis, ipsum nec rhoncus semper, felis sapien pharetra magna, vel posuere augue nunc rhoncus leo. 
+                        </span>
+                    </div>
+                </li>
+            </ul>
         </div>
+
     </div> 
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>    

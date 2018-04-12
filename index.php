@@ -37,7 +37,7 @@
     </div>
     
     <div id = "home" class = "row">
-        <div id = "r1" class="col s6">
+        <div id = "r1" class="col s6 card z-depth-5">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ullamcorper lacus congue diam blandit mollis. Integer nec eros ac eros porttitor lobortis ut in metus. Integer malesuada turpis molestie urna viverra, eu aliquam dui hendrerit. Morbi vitae ornare tortor, non varius lorem. Fusce sed tortor rhoncus, consequat tellus et, gravida purus. Sed id consequat dolor. Suspendisse quis lacus porta, hendrerit arcu vitae, dignissim tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras at odio eu lectus semper molestie a in nulla. Mauris sem ligula, consectetur eget egestas a, condimentum id quam. Vestibulum in orci justo. Maecenas quis velit id arcu ornare auctor ac commodo libero. Maecenas at ipsum sagittis, consequat elit non, convallis ex. Morbi dapibus dapibus placerat.
         Nulla a lectus eget mi lobortis pulvinar sit amet sed urna. Integer tincidunt ut justo sed laoreet. Maecenas malesuada, urna ut gravida convallis, neque nulla luctus mi, sed mattis nisl justo non diam. Mauris ut fringilla erat. Proin vel auctor leo. Aliquam erat volutpat. Mauris ac felis quis risus consectetur porta. Donec sapien sapien, efficitur sed arcu non, consequat gravida lorem. Morbi varius sagittis libero. Nullam laoreet consequat enim, sit amet lobortis orci tincidunt quis. Phasellus luctus iaculis hendrerit. Pellentesque egestas, dui sit amet tristique scelerisque, magna nunc tempor diam, id eleifend turpis arcu tristique lacus. Morbi congue luctus sapien quis aliquam. Ut sed ullamcorper tellus.
         Vivamus sapien leo, scelerisque tempor auctor et, placerat et lorem. Fusce cursus est tincidunt finibus vehicula. Pellentesque a odio mi. Mauris hendrerit quam vitae mollis ultrices. Etiam non tempus sapien. Ut orci lorem, sodales ac mi id, vehicula cursus leo. Vestibulum dignissim accumsan massa, scelerisque ornare elit pharetra vel. Suspendisse potenti. Duis sed odio ultrices, ultricies turpis dictum, luctus nibh. Curabitur ullamcorper rhoncus volutpat.
@@ -47,7 +47,7 @@
         <div id = "r2" class="col s3">
             <div src = "./blog.php/#Latest"></div>
         </div>
-        <div id = "r3" class="col s3">
+        <div id = "r3" class="col s3 card">
             <a class="twitter-timeline" href="https://twitter.com/NZRPG01?ref_src=twsrc%5Etfw">Tweets by NZRPG</a> 
         </div>
     </div>
