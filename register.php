@@ -42,10 +42,10 @@
     <div class = "row">
         <div class = "col s3 card z-depth-4">
             <h1>Log In</h1>
-            <form class="col s12">
+            <form class="col s12" name = "login">
                 <div class="row">
                     <div class="input-field col s12">
-                        <input id="email" type="email" class="validate">
+                        <input id="email" type="email" class="validate" tabindex="1">
                         <label for="email">Email</label>
                         <span class="helper-text" data-error="Incorrect" data-success="Correct"></span>
                     </div>
@@ -75,11 +75,11 @@
         </div>
         <div class = "col s3 card z-depth-4">
             <h1>Register</h1>
-            <form class="col s12">
+            <form class="col s12" name = "register">
                 <div class="row">
                     <div class="input-field col s12">
-                        <input id="email" type="email" class="validate">
-                        <label for="email">Email</label>
+                        <input id="email2" type="email" class="validate">
+                        <label for="email2">Email</label>
                         <span class="helper-text" data-error="Incorrect" data-success="Correct"></span>
                     </div>
                 </div>
@@ -102,8 +102,8 @@
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
-                        <input id="password" type="password" class="validate">
-                        <label for="password">Password</label>
+                        <input id="password2" type="password" class="validate">
+                        <label for="password2">Password</label>
                     </div>
                 </div>
                 <button class="btn waves-effect btn-flat waves-light" type="submit" name="action">Sign Up

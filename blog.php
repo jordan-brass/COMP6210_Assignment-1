@@ -33,9 +33,9 @@
 
     <div id="blog" class = "row">
         <div id ="Blog-Main" class = "col s8">
-        <div class="card z-depth-5">
+        <div class="card z-depth-5 remove-padding">
                 <div class="card-content" id = "Latest">
-                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 1</h1><i class="material-icons right top">more_vert</i></span>
+                    <span><h1>Post Title 1</h1><i class="card-title activator material-icons right top custom-icon">more_vert</i></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
@@ -45,7 +45,7 @@
             </div>
             <div class="card z-depth-5">
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 2</h1><i class="material-icons right top">more_vert</i></span>
+                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 2</h1><i class="material-icons right top custom-icon">more_vert</i></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
@@ -56,7 +56,7 @@
 
             <div class="card z-depth-5">
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 3</h1><i class="material-icons right top">more_vert</i></span>
+                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 3</h1><i class="material-icons right top custom-icon">more_vert</i></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
