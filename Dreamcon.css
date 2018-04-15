@@ -1,0 +1,18 @@
+body {
+    overflow-y: scroll;
+}
+
+.nav-wrapper {
+    background-color: cyan;
+    color: black;
+}
+
+.brand-logo {
+    color: black;
+}
+
+#front-image {
+    height: 250px;
+    width: 250px;
+    margin-right: 10px;
+}

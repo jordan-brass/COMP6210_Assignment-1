@@ -61,24 +61,6 @@
             </div>
         </div>
 
-        <!-- <div class = "col s4">
-            <div class = "card">
-                <div class = "row">
-                    <div class = "col s3">
-                        <img class ="member-portrait circle" src="./images/portraitstock.jpg">
-                    </div>
-                    <div class = "col s9">
-                        <h5>Member Name</h5>
-                    </div>
-                    
-                </div>
-                <div>
-                    Member Bio
-                    In id ipsum et nulla suscipit venenatis non in nisl. Aenean consequat malesuada nunc nec mollis. Donec rutrum lacinia facilisis. Vestibulum nec erat lobortis, aliquam dui sed, porta neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in sapien vulputate arcu tempor sollicitudin. Integer iaculis, ipsum nec rhoncus semper, felis sapien pharetra magna, vel posuere augue nunc rhoncus leo.
-                        
-                </div>
-            </div>
-        </div> -->
         <div class = "col s4">
             <div>
                 <h4>Who is in NZRPG?</h4>
@@ -117,12 +99,35 @@
                         </span>
                     </div>
                 </li>
+                <li>
+                    <div class="collapsible-header">
+                        <img class="member-portrait circle" src="./images/portraitstock.jpg"><h4>Member Name 4</h4>
+                    </div>
+                    <div class="collapsible-body">
+                        <span>
+                            Member Bio
+                            In id ipsum et nulla suscipit venenatis non in nisl. Aenean consequat malesuada nunc nec mollis. Donec rutrum lacinia facilisis. Vestibulum nec erat lobortis, aliquam dui sed, porta neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in sapien vulputate arcu tempor sollicitudin. Integer iaculis, ipsum nec rhoncus semper, felis sapien pharetra magna, vel posuere augue nunc rhoncus leo. 
+                        </span>
+                    </div>
+                </li>
+                <li>
+                    <div class="collapsible-header">
+                        <img class="member-portrait circle" src="./images/portraitstock.jpg"><h4>Member Name 5</h4>
+                    </div>
+                    <div class="collapsible-body">
+                        <span>
+                            Member Bio
+                            In id ipsum et nulla suscipit venenatis non in nisl. Aenean consequat malesuada nunc nec mollis. Donec rutrum lacinia facilisis. Vestibulum nec erat lobortis, aliquam dui sed, porta neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed in sapien vulputate arcu tempor sollicitudin. Integer iaculis, ipsum nec rhoncus semper, felis sapien pharetra magna, vel posuere augue nunc rhoncus leo. 
+                        </span>
+                    </div>
+                </li>
             </ul>
         </div>
 
     </div> 
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="   crossorigin="anonymous"></script>    
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
     <script src="js.js"></script>
 </body>

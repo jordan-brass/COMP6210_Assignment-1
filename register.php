@@ -61,7 +61,7 @@
                 </button>
             </form>
         </div>
-        <div id = "placeholder-border" class = "col s6">
+        <div class = "col s6 tac">
             <h3>Terms and Conditions</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
             <form action="#" class = "right">
