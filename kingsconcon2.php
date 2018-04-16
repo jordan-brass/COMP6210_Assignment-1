@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
     <link rel="stylesheet" href-"css.css"> 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="dreamcon.css">
+    <link rel="stylesheet" href="kingscon.css">
     <title>Document</title>
 </head>
 <body>
@@ -18,8 +18,8 @@
             <a href="index.php" class="brand-logo">Logo</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="index.php">NZRPG</a></li>
-                <li><a href="dreamcon.php">DreamCon</a></li>
-                <li><a href="dreamcon2.php">Table Information</a></li>
+                <li><a href="kingscon.php">DreamCon</a></li>
+                <li><a href="kingscon2.php">Table Information</a></li>
                 <li><a href="register.php">Register / Log In</a></li>
             </ul>
         </div>
