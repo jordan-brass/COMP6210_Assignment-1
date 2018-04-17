@@ -83,7 +83,7 @@ body {
     margin-top: 0rem;
 }
 
-#contact-con {
+.contact-con {
     padding-top: 2px;
     padding-left: 10px;
     padding-bottom: 2px;
@@ -99,4 +99,9 @@ body {
 
 .collapsible-body {
     background-color: white;
+}
+
+.who {
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
