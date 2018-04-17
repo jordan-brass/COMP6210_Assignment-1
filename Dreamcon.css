@@ -3,12 +3,7 @@ body {
 }
 
 .nav-wrapper {
-    background-color: cyan;
-    color: black;
-}
-
-.nav.wrapper {
-    color: black;
+    background-color: #0fb0ff;
 }
 
 #front-image {
@@ -37,8 +32,7 @@ body {
 .tabs-vertical .tab {
     width: 100%;
 }
-    
-      
+         
 .tabs-vertical .tab .active {
     -moz-transition: border-color 0.5s ease;
     -o-transition: border-color 0.5s ease;

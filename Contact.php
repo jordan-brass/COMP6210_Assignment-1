@@ -32,8 +32,8 @@
     <div class = "row">
         <div class = " col s4">
             <div class = "card">
-                <div id = "contact-con">
-                    <h2 id = "contact">Contact Us</h2>
+                <div class = "contact-con">
+                    <h2 id = "white-remove">Contact Us</h2>
                     <p>if you would like to contact us please use one of the following methods or use the form to the right</p>
                     <br>
                     <h6>Method 1</h6>

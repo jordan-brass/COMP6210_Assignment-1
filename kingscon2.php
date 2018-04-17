@@ -18,31 +18,12 @@
             <a href="index.php" class="brand-logo">Logo</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="index.php">NZRPG</a></li>
-                <li><a href="kingscon.php">DreamCon</a></li>
+                <li><a href="kingscon.php">KingsCon</a></li>
                 <li><a href="kingscon2.php">Table Information</a></li>
                 <li><a href="register.php">Register / Log In</a></li>
             </ul>
         </div>
     </nav>
-    
-    <!-- <div class = "row">
-        <div class = "col s2">
-            <ul class = "tabs-">
-                <li class="tab"><a href="#test1">Test 1</a></li>
-                <li class="tab"><a href="#test2">Test 2</a></li>
-            </ul>
-        </div>
-        <div class = "col s10">
-            <div class = "card">
-                <div id="test1" class="col s12">
-                    Test 1
-                </div>
-                <div id="test2" class="col s12">
-                    Test 2
-                </div>
-            </div>
-        </div>
-    </div> -->
 
     <div class="row">
         <div class="tabs-vertical">

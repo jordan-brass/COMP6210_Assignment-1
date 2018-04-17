@@ -17,7 +17,7 @@
             <a href="index.php" class="brand-logo">Logo</a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="index.php">NZRPG</a></li>
-                <li><a href="kingscon.php">DreamCon</a></li>
+                <li><a href="kingscon.php">KingsCon</a></li>
                 <li><a href="kingscon2.php">Table Information</a></li>
                 <li><a href="register.php">Register / Log In</a></li>
             </ul>
@@ -54,7 +54,7 @@
             <div class = "row">
                 <div class = "col s6">
                         <h6>
-                            Click here to purchase your ticket for DreamCon
+                            Click here to purchase your ticket for KingsCon
                         </h6>
                     <button class="btn waves-effect waves-light" type="submit" name="action">Go
                         <i class="material-icons right">send</i>
@@ -62,7 +62,7 @@
                 </div>
                 <div class = "col s6">
                     <h6>
-                        Click here to proceed to the DreamCon event page to see the schedule and to get your seats
+                        Click here to proceed to the KingsCon event page to see the schedule and to get your seats
                     </h6>
                     <button class="btn waves-effect waves-light" type="submit" name="action">Go
                         <i class="material-icons right">send</i>

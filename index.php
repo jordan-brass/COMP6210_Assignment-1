@@ -30,12 +30,15 @@
             </ul>
         </div>
     </nav>
-    <div class = "row">
+    <div class = "row banner">
         <div class = "col s2">
 
         </div>
         <div class="col s8">
-            <img src="./images/banner.gif" alt="" align = "center">
+            <a href="kingscon.php">
+                <img src="./images/banner.gif" href="kingscon.php" alt="" align = "center">
+            </a>
+            
         </div>
         <div class = "col s2">
 

@@ -8,12 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
     <link rel="stylesheet" href="Css.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="Blog.css">
-    <style>
-        body {
-            background-color: darkgrey;
-        }
-    </style>
 </head>
 <body>
     <ul id="dropdown1" class="dropdown-content">
@@ -39,7 +33,7 @@
         <div id ="Blog-Main" class = "col s8">
             <div class="card z-depth-5 remove-padding">
                 <div class="card-content" id = "Latest">
-                    <span><h1>Post Title 1</h1><i class="card-title activator material-icons right top custom-icon">more_vert</i></span>
+                    <span><h1 class = "white-remove">Post Title 1</h1><i class="card-title activator material-icons right top custom-icon">more_vert</i></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
@@ -47,9 +41,13 @@
                     <p>Here is some Information about the Author</p>
                 </div>
             </div>
-            <div class="card z-depth-5">
+            <div> 
+                <p class = "blog-date">16/04/2018</p>
+            </div>
+
+            <div class="card z-depth-5 remove-padding">
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 2</h1><i class="material-icons right top custom-icon">more_vert</i></span>
+                    <span><h1 class = "white-remove">Post Title 2</h1><i class=" card-title activator material-icons right top custom-icon">more_vert</i></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
@@ -57,16 +55,22 @@
                     <p>Here is some Information about the Author</p>
                 </div>
             </div>
+            <div> 
+                <p class = "blog-date">16/04/2018</p>
+            </div>
 
-            <div class="card z-depth-5">
+            <div class="card z-depth-5 remove-padding">
                 <div class="card-content">
-                    <span class="card-title activator grey-text text-darken-4"><h1>Post Title 3</h1><i class="material-icons right top custom-icon">more_vert</i></span>
+                    <span><h1 class = "white-remove">Post Title 3</h1><i class="card-title activator material-icons right top custom-icon">more_vert</i></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis viverra erat, eu tempor urna. In hac habitasse platea dictumst. Proin et posuere erat. Donec non purus hendrerit, consequat eros sed, consectetur dui. Aenean quis tristique purus. Etiam sed ex vel nulla dictum pulvinar ut non urna. Quisque a venenatis augue, vel venenatis nulla. Nulla efficitur ultrices aliquet. Donec porta, ipsum vel efficitur egestas, mi lectus fermentum justo, sagittis malesuada lectus dolor eget ligula. Sed malesuada mauris quam, non ornare nibh interdum at. Donec aliquam enim et sodales blandit. Duis eget tellus eleifend, commodo turpis eu, efficitur nunc. Nullam a dolor ipsum. Sed ac cursus arcu. Aenean viverra leo quis arcu laoreet, id pellentesque velit sodales.</p>
                 </div>
                 <div class="card-reveal">
                 <span  class="card-title grey-text text-darken-4 "><img class ="author-image circle" src="./images/portraitstock.jpg">Author's Name<i class="material-icons right">close</i></span>
                     <p>Here is some Information about the Author</p>
                 </div>
+            </div>
+            <div> 
+                <p class = "blog-date">16/04/2018</p>
             </div>
         </div>
         <div class = "col s4">

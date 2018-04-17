@@ -9,22 +9,23 @@ DROP TABLE IF EXISTS tbl_people;
 
 CREATE TABLE tbl_people (
 
-    DCI INT(11) NOT NULL,
+    PID INT (11) NOT NULL AUTO_INCREMENT,
+    DCI INT(15) NOT NULL,
     EMAIL VARCHAR(255) NOT NULL,
     FNAME VARCHAR(255) NOT NULL,
     LNAME VARCHAR(255),
-    PRIMARY KEY (DCI)
+    PRIMARY KEY (PID)
 
-);
+) AUTO_INCREMENT=1;
 
 CREATE TABLE tbl_adventures (
 
-    ID INT(11) NOT NULL AUTO_INCREMENT,
+    AID INT(11) NOT NULL AUTO_INCREMENT,
     TITLE VARCHAR(50) NOT NULL,
     SYNOPSIS VARCHAR(255) NOT NULL,
     LEVEL VARCHAR(50) NOT NULL,
-    TIME VARCHAR(50)
-    PRIMARY KEY (ID),
+    TIME VARCHAR(50),
+    PRIMARY KEY (AID)
     
 ) AUTO_INCREMENT=1;
 
@@ -32,7 +33,7 @@ CREATE TABLE tbl_dms (
 
 );
 
-CREATE TABLE tbl_plays (
+CREATE TABLE tbl_ticket (
 
 );
 
@@ -43,7 +44,11 @@ CREATE TABLE tbl_content (
     CONTENT VARCHAR(1000) NOT NULL,
     PRIMARY KEY (ID)
 
-)
+);
+
+CREATE TABLE tbl_fills (
+
+);
 
 -- *********************************
 -- ********* CREATE PEOPLE *********
